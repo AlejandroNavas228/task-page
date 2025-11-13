@@ -100,6 +100,8 @@ nav {
     border: 2px solid var(--primary-color);
     color: var(--primary-color);
     transition: all 0.1s ease-in-out;
+    cursor: pointer;
+    text-decoration: none;
 }
 
 #main-desc-btn:hover{
