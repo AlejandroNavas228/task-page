@@ -80,7 +80,7 @@ nav {
 }
 
 #nav-menu-btn{
-    border: 2px solid var(--border-color);
+    border: none;
     background-color: transparent;
     padding: 0 0.5rem;
     display: flex;
