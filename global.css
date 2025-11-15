@@ -90,10 +90,14 @@ nav {
     transition: all 0.1s ease-in-out;
 }
 
+#nav-menu-btn:hover{
+    transform: scale(1.05);
+}
+
 #nav-menu-btn:active{
-    background-color: var(--nav-btn-active-color);
-    border-color: #e5e7eb;
-    border:0px;
+     transform: scale(1);
+    background-color: var(--btm-bg-color);
+    border:1px;
 }
 
 .nav-link{
